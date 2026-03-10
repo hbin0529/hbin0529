@@ -2,7 +2,7 @@
 Welcome to my page!<br>
 My name is Lee Hyung-bin, and I am a backend developer who studies with the goal of growing every day.<br><br>
 방문해주셔서 감사합니다!<br>
-저는 이형빈이고, 백엔드 개발자를 지향하며 매일 성장하는 것을 목표로 공부하고 있습니다.<br>
+저는 이형빈이고, 성장하는 것을 목표로 공부하고 있습니다.<br>
 
 <br>
 
@@ -24,9 +24,6 @@ My name is Lee Hyung-bin, and I am a backend developer who studies with the goal
 <br>
 
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbin0529&&show_icons=true&theme=Card)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=small0529)](https://solved.ac/small0529/)
 
 <br>
 
